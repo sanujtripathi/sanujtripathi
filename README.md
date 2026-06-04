@@ -1,6 +1,6 @@
 # Hi, I'm Sanuj Tripathi 👋
 
-## Associate Software Developer
+## Full Stack Software Developer
 
 I am a Software Developer with experience in Python, Django, FastAPI, React, AWS, Docker and PostgreSQL.
 
