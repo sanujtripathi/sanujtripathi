@@ -53,3 +53,12 @@ Email: sanujtripathi131@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=sanujtripathi&color=blue)
+
+From: 03 May 2020 - To: 24 February 2026
+
+Total Time: 1,704 hrs
+
+Python                       1,008 hrs 6 mins██████████████▓░░░░░░░░░░   59.16 %
+SQL                          267 hrs 5 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+PowerBi                      115 hrs 4 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Excel                        76 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
