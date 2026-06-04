@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanuj Tripathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;FastAPI+%7C+Django+%7C+AWS;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;FastAPI+%7C+Django+%7C+AWS;Building+Scalable+Systems" />
 </p>
 
 ## Full Stack Software Developer
