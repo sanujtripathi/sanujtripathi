@@ -6,15 +6,15 @@
 
 ## Full Stack Software Developer
 
-I am a Software Developer with experience in Python, Django, FastAPI, React, AWS, Docker and PostgreSQL.
+I am a Software Developer with experience in Python, Django, FastAPI, React, AWS, Docker, K8s, SQL, NoSQL.
 
 ### About Me
 
-- Backend Developer
+- Full Stack Developer
 - Building scalable APIs using Django and FastAPI
 - Experience with AWS, Azure, Snowflake
 - Worked on Kubernetes-based Data Pipelines
-- Interested in Backend Engineering, Cloud and AI
+- Interested in Full Stack Engineering, Cloud and AI
 
 ## GitHub Stats
 
